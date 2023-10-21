@@ -11,6 +11,7 @@ body{
     background: url(/ClonGoogle/assets/fondo.jpg);
 }
 
+
 #buscar{
     filter: invert(64%) sepia(15%) saturate(99%) hue-rotate(169deg) brightness(97%) contrast(90%);
     
